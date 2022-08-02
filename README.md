@@ -5,12 +5,12 @@ with functionality of **authentication and confidentiality**👬.
 
 
 ##TECHNOLOGIES 
--html
--css
--js
--mongodb
--nodejs
--expressjs
+ -html
+ -css
+ -js
+ -mongodb
+ -nodejs
+ -expressjs
 
 
 ✨MongoDB-
