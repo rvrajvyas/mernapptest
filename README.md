@@ -4,13 +4,13 @@ In this project, i created a sign in and registration page using html, css and j
 with functionality of **authentication and confidentiality**👬.
 
 
-##TECHNOLOGIES 
- -html
- -css
- -js
- -mongodb
- -nodejs
- -expressjs
+## TECHNOLOGIES 
+    -html
+    -css
+    -js
+    -mongodb
+    -nodejs
+    -expressjs
 
 
 ✨MongoDB-
