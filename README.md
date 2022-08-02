@@ -1,4 +1,4 @@
-# mernapptest
+# MernAppTest
 
 In this project, i created a sign in and registration page using html, css and javascript🎁. Which is connected to the database using mongodb.
 with functionality of **authentication and confidentiality**👬.
@@ -14,8 +14,8 @@ with functionality of **authentication and confidentiality**👬.
 
 
 ✨MongoDB-
-**Computer program**
-MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License which is deemed non-free by several distributions
+ **Computer program**
+ -MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with          optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License which is deemed non-free by several distributions
 
 ✨Express.js
 **Software**
