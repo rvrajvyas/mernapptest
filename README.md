@@ -34,4 +34,4 @@ with functionality of **authentication and confidentiality**👬.
     Getting started: First, create a new project folder. Then go to the project folder in command prompt/terminal and type below command to initialize a package.json file. (Make sure npm is installed) 
 
 
-![Screenshot](Screenshot (229).png)
+![Screenshot (229)](https://user-images.githubusercontent.com/58565820/182304982-f22e2af7-8036-4da8-bddd-5344ce6220e0.png)
